@@ -1,5 +1,5 @@
 {
-  "name": "@borntraegermarc/css-slam",
+  "name": "borntraegermarc-css-slam",
   "version": "1.2.2",
   "description": "Minimal CSS, fast",
   "main": "index.js",
