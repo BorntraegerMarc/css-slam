@@ -1,6 +1,6 @@
 {
   "name": "borntraegermarc-css-slam",
-  "version": "1.2.2",
+  "version": "1.2.4",
   "description": "Minimal CSS, fast",
   "main": "index.js",
   "scripts": {
